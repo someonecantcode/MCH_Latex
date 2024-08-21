@@ -1,0 +1,37 @@
+\documentclass[12pt]{report}
+\usepackage{lipsum}
+\usepackage{graphicx, float} % Required for inserting images
+\usepackage{hyperref}
+\graphicspath{{./Images}}
+
+
+\linespread{1}
+\setlength{\parskip}{0.5\baselineskip}
+\usepackage[a4paper,vmargin=30mm,hmargin=33mm,footskip=15mm]{geometry}
+
+\newcommand{\key}[1] {\textbf{#1}}
+
+
+
+\title{\huge{Running Math Club}}
+\author{Brendan Tea}
+\date{\today}
+
+
+%-------------------------------
+\begin{document}
+\maketitle
+\tableofcontents
+%----------------------------
+
+\include{Chapters/Preface}
+\include{Chapters/ImportantInfo}
+\include{Chapters/Planning}
+\include{Chapters/Actions}
+\include{Chapters/Running}
+\include{Chapters/Endgame}
+\include{Chapters/Todo}
+
+
+\end{document}
+
