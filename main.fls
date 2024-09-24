@@ -1,8 +1,8 @@
-PWD c:/Users/T/Documents/MCH_latex/Math Club
+PWD c:/Users/T/Documents/Repos/MCH_Latex
 INPUT c:/texlive/2024/texmf.cnf
 INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/T/Documents/MCH_latex/Math Club/main.tex
+INPUT c:/Users/T/Documents/Repos/MCH_Latex/main.tex
 OUTPUT main.log
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/report.cls
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/report.cls
@@ -94,6 +94,16 @@ INPUT c:/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 INPUT c:/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 INPUT c:/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT c:/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
 INPUT c:/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT c:/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT c:/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
@@ -144,6 +154,8 @@ INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT ./main.toc
@@ -158,6 +170,9 @@ INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 OUTPUT main.toc
 INPUT ./Chapters/Preface.tex
 INPUT ./Chapters/Preface.tex
@@ -187,6 +202,16 @@ OUTPUT Chapters/Actions.aux
 INPUT ./Chapters/Actions.tex
 INPUT ./Chapters/Actions.tex
 INPUT Chapters/Actions.tex
+INPUT ./Images/members.png
+INPUT ./Images/members.png
+INPUT ./Images/members.png
+INPUT ./Images/members.png
+INPUT ./Images/flyer.png
+INPUT ./Images/flyer.png
+INPUT ./Images/flyer.png
+INPUT ./Images/flyer.png
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
 INPUT ./Images/example.png
 INPUT ./Images/example.png
 INPUT ./Images/example.png
@@ -203,6 +228,7 @@ OUTPUT Chapters/Endgame.aux
 INPUT ./Chapters/Endgame.tex
 INPUT ./Chapters/Endgame.tex
 INPUT Chapters/Endgame.tex
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT ./Chapters/Todo.tex
 INPUT ./Chapters/Todo.tex
 OUTPUT Chapters/Todo.aux

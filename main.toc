@@ -2,14 +2,16 @@
 \contentsline {chapter}{Preface}{3}{chapter*.5}%
 \contentsline {chapter}{\numberline {1}Planning}{4}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Information}{4}{section.1.1}%
-\contentsline {chapter}{\numberline {2}Taking Action}{6}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Teams}{6}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Creating PPTs}{6}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Club Meeting Plans}{7}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Club Fair Prep}{7}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Fundraising}{8}{section.2.5}%
-\contentsline {section}{\numberline {2.6}Officer Positions}{8}{section.2.6}%
-\contentsline {chapter}{\numberline {3}Running}{9}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Endgame}{10}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Officer Elections}{10}{section.4.1}%
-\contentsline {chapter}{\numberline {5}TODO}{11}{chapter.5}%
+\contentsline {chapter}{\numberline {2}Taking Action \\ (TODO List in Order)}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Canvas}{6}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Club Fair Prep}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Awareness}{8}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Creating PPTs}{8}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Club Meeting Plans}{9}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Competitions}{9}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Fundraising}{10}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Officer Positions}{10}{section.2.8}%
+\contentsline {chapter}{\numberline {3}Running}{11}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Endgame}{12}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Officer Elections}{12}{section.4.1}%
+\contentsline {chapter}{\numberline {5}TODO}{13}{chapter.5}%
